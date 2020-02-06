@@ -6,3 +6,8 @@ Created with CodeSandbox
 npm install
 
 npm run serve
+
+or 
+
+use https://codesandbox.io/s/github/engtiago/Vuex_exemple
+
